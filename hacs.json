@@ -1,7 +1,7 @@
 {
     "name": "Authenticated",
     "zip_release": true,
-    "hide_default_branch": true,
+    "hide_default_branch": false,
     "filename": "authenticated.zip",
     "domain": "authenticated"
 }
